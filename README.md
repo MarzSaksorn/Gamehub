@@ -2,7 +2,7 @@
 
 A browser-based game hub that collects classic and fun games in one place, localized into Thai for easy access.
 
-**Live site:** [MarzSaksorn/Gamehub on GitHub Pages](https://marzSaksorn.github.io/Gamehub/)
+**Live site:** [MarzSaksorn/Gamehub on Marzweb](https://www.marzweb.win/Gamehub/)
 
 ---
 
