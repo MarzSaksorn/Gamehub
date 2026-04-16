@@ -35,13 +35,7 @@ This project is a static website — no build step is required.
    cd Gamehub
    ```
 
-2. **Open `index.html`** directly in your browser, or serve the folder with any static file server:
-   ```bash
-   # Example using Python
-   python -m http.server 8080
-   ```
-   Then visit `http://localhost:8080`.
-
+2. **Open `index.html`** directly in your browser
 ---
 
 ## 📁 Project Structure
